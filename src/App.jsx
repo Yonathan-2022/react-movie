@@ -7,7 +7,7 @@ export function App(){
     return(
     <Router>
         <header>
-             <Link to="/"><h1 className={styles.title}> Movies React 2022 </h1></Link>  
+             <Link to="/"><h1 className={styles.title}> Movies React 2023 </h1></Link>  
         </header> 
         <main>
              <Routes>
